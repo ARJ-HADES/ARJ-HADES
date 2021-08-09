@@ -35,16 +35,6 @@
 
 ---
 
-
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ARJ-HADES/Power-Machines-LLC/pull/2) in [ARJ-HADES/Power-Machines-LLC](https://github.com/ARJ-HADES/Power-Machines-LLC)
-2. 💪 Opened PR [#2](https://github.com/ARJ-HADES/Power-Machines-LLC/pull/2) in [ARJ-HADES/Power-Machines-LLC](https://github.com/ARJ-HADES/Power-Machines-LLC)
-3. 🎉 Merged PR [#1](https://github.com/ARJ-HADES/Power-Machines-LLC/pull/1) in [ARJ-HADES/Power-Machines-LLC](https://github.com/ARJ-HADES/Power-Machines-LLC)
-4. 💪 Opened PR [#1](https://github.com/ARJ-HADES/Power-Machines-LLC/pull/1) in [ARJ-HADES/Power-Machines-LLC](https://github.com/ARJ-HADES/Power-Machines-LLC)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
 </details>
 
 <details>
