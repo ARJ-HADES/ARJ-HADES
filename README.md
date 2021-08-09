@@ -1,7 +1,7 @@
 ### Hi there, I'm Arjun - aka [ARJ-HADES][website] 👋
 
 
-## I'm a Software Developer !!
+ I'm a Software Developer !!
 ---
 
 - 🌱 I’m currently learning everything 🤣
