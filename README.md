@@ -1,12 +1,12 @@
 ### Hi there, I'm Arjun - aka [ARJ-HADES][website] 👋
 
 
- I'm a Software Developer !!
+ I'm a Web Developer !!
 ---
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football
 
 ---
@@ -47,6 +47,6 @@
 
 </details>
 
-[website]:  https://arj-hades.github.io/My-personalwebsite/
+[website]:  https://arj-hades.github.io/My-personalwebsite/](https://arjunofficialwebsite.s3.ap-south-1.amazonaws.com/index.html
 [facebook]: https://www.facebook.com/profile.php?id=100009521726197
 [linkedin]: https://www.linkedin.com/in/arjun-vinod-028595154/
